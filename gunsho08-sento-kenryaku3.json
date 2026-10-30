@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/sento-kenryaku3-utaawase",
  "yomi": "せんとううたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（十八番）",
+  "era": "建暦3年（1213）閏9月19日",
+  "author": "判者 藤原定家",
+  "desc": "仙洞で催された十八番の歌合。深山月・寄風雑などの題で、有家・家衡・家隆・範宗・雅経・俊成卿女・為家らが詠み、侍従定家が判をした。"
+ },
  "editions": [
   {
    "pid": "1879502",
